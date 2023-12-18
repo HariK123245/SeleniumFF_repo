@@ -8,6 +8,7 @@ public class Forkpractice {
 	public void main()
 	{
 		Reporter.log("Hi");
+		Reporter.log("Hello");
 	}
 
 }
