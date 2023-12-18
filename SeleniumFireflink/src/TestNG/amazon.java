@@ -7,7 +7,7 @@ import org.testng.annotations.Test;
 
 public class amazon {
 	@Test(groups="smoke")
-	public void navigateApple()
+	public void navigateamazon()
 	{
 		WebDriver driver=new ChromeDriver();
 		driver.get("https://www.amazon.in/");
